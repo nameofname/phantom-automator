@@ -1,0 +1,15 @@
+{
+  "name": "automaor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-phantom": "^0.2.5",
+    "phantomjs": "^1.9.18"
+  }
+}
