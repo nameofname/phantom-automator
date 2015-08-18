@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-phantom": "^0.2.5",
-    "phantomjs": "^1.9.18"
+    "phantom": "^0.7.2"
   }
 }
